@@ -96,6 +96,7 @@
 │   ├── anomaly_vit.py           # Multi-Head Attention 기반 트랜스포머 가동 스크립트
 │   ├── docs/                    # 기말 최종 발표 자료(PPT) 및 프로젝트 보고서 PDF 아카이브
 │   ├── src/                     # 전처리 완료된 반도체 바이너리 데이터셋(train/test_data.pkl) 탑재 폴더
+│   ├── colab/                   # colab을 통한 사전 프로젝트 데이터 검증 및 모델 설정 폴더
 │   ├── results_autoencoder/     # 각 모델별 실시간 벤치마크 최종 성적표(result_summary.txt) 저장 폴더
 │   ├── results_patchcore/
 │   └── results_vit/
