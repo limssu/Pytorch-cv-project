@@ -1,0 +1,1005 @@
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 000.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004843
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_000_000.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 001.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004927
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_001_001.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 002.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.003977
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_002_002.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 003.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004348
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_003_003.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 004.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.006548
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_004_004.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 005.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004813
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_005_005.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 006.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005271
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_006_006.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 007.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004065
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_007_007.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 008.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005544
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_008_008.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 009.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004098
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_009_009.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 010.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004081
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_010_010.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 011.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004555
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_011_011.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 012.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005451
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_012_012.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 013.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005228
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_013_013.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 014.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005770
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_014_014.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 015.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004349
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_015_015.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 016.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005357
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_016_016.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 017.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005834
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_017_017.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 018.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005619
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_018_018.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 019.png
+DEFECT TYPE  : broken_large
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004870
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_019_019.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 000.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004585
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_020_000.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 001.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005625
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_021_001.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 002.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005648
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_022_002.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 003.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.006353
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_023_003.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 004.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.007730
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_024_004.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 005.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004157
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_025_005.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 006.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004889
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_026_006.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 007.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005224
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_027_007.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 008.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.003724
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_028_008.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 009.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004812
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_029_009.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 010.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005323
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_030_010.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 011.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005028
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_031_011.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 012.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.006136
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_032_012.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 013.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004665
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_033_013.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 014.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004643
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_034_014.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 015.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.003973
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_035_015.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 016.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004075
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_036_016.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 017.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.006451
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_037_017.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 018.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.007170
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_038_018.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 019.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004229
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_039_019.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 020.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005258
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_040_020.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 021.png
+DEFECT TYPE  : broken_small
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005517
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_041_021.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 000.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.003336
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_042_000.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 001.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.003156
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_043_001.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 002.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004343
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_044_002.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 003.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004419
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_045_003.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 004.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004381
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_046_004.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 005.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005503
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_047_005.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 006.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.008675
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_048_006.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 007.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.007436
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_049_007.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 008.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.002967
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_050_008.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 009.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.003610
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_051_009.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 010.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.003037
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_052_010.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 011.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004430
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_053_011.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 012.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005906
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_054_012.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 013.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005591
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_055_013.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 014.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004063
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_056_014.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 015.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.003505
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_057_015.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 016.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.005230
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_058_016.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 017.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.007285
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_059_017.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 018.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Anomaly
+SCORE        : 0.006929
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_060_018.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 019.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004780
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_061_019.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 020.png
+DEFECT TYPE  : contamination
+GROUND TRUTH : Anomaly
+PREDICTION   : Normal
+SCORE        : 0.004610
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_062_020.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 000.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004280
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_063_000.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 001.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004376
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_064_001.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 002.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Anomaly
+SCORE        : 0.005031
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_065_002.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 003.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004694
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_066_003.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 004.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004409
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_067_004.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 005.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Anomaly
+SCORE        : 0.005204
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_068_005.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 006.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Anomaly
+SCORE        : 0.005036
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_069_006.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 007.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004039
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_070_007.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 008.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Anomaly
+SCORE        : 0.005185
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_071_008.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 009.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004277
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_072_009.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 010.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004144
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_073_010.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 011.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004305
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_074_011.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 012.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004422
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_075_012.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 013.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Anomaly
+SCORE        : 0.005269
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_076_013.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 014.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Anomaly
+SCORE        : 0.005522
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_077_014.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 015.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.003947
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_078_015.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 016.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.004823
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_079_016.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 017.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Anomaly
+SCORE        : 0.005137
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_080_017.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 018.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Normal
+SCORE        : 0.003754
+THRESHOLD    : 0.004937
+CORRECT      : True
+SAVED IMAGE  : ./results_autoencoder/ae_081_018.png
+======================================================================
+
+======================================================================
+METHOD       : AutoEncoder
+FILE         : 019.png
+DEFECT TYPE  : good
+GROUND TRUTH : Normal
+PREDICTION   : Anomaly
+SCORE        : 0.005522
+THRESHOLD    : 0.004937
+CORRECT      : False
+SAVED IMAGE  : ./results_autoencoder/ae_082_019.png
+======================================================================
+
+
+======================================================================
+FINAL RESULT
+======================================================================
+METHOD       : AutoEncoder
+TOTAL        : 83
+CORRECT      : 41
+ACCURACY     : 49.40%
+======================================================================

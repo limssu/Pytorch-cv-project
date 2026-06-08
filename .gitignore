@@ -1,0 +1,14 @@
+processed_data/
+results_autoencoder/*.pkl
+results_patchcore/*.pkl
+results_vit/*.pkl
+*.zip
+*.pkl
+nohup.out
+processed_data/
+results_autoencoder/*.pkl
+results_patchcore/*.pkl
+results_vit/*.pkl
+*.zip
+*.pkl
+nohup.out
