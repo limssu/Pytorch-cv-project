@@ -1,4 +1,4 @@
-# 🔎 딥러닝 기반 반도체 웨이퍼 결함 탐지 및 유형 분류 연구
+# 🔎 반도체 웨이퍼 이상 탐지용 딥러닝 모델 비교 연구
 > **Semiconductor Wafer Defect Detection and Classification using Deep Learning Features**
 
 ## 🎯 1. 프로젝트 개요 및 연구 동기 (Introduction)
